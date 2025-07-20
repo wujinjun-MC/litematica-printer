@@ -1,3 +1,6 @@
+Now printing range can be set from 2.5 to 64!
+Feel free to use with block_interaction_range +99999!
+
 # Litematica Printer
 
 ![GitHub issues](https://img.shields.io/github/issues-raw/aleksilassila/litematica-printer)

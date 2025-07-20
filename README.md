@@ -1,3 +1,6 @@
+Printing range = 2.5~64
+Feel free with block_interaction_range +9999 (/attribute @s minecraft:block_interaction_range base set 9999)
+
 # Litematica Printer
 
 ![GitHub issues](https://img.shields.io/github/issues-raw/aleksilassila/litematica-printer)
